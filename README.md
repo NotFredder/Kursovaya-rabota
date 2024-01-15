@@ -34,3 +34,5 @@
   1.3. Заключение: копируется введение в прошедшем времени
   
 2.Как это должно быть оформлено (ГОСТ)
+
+https://docs.google.com/document/d/1YhjzuAToIJRbPk7vMwDOpm50K1LSoEfjw1q-eBFd-kc/edit?usp=drivesdk
