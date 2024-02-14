@@ -36,3 +36,7 @@
 2.Как это должно быть оформлено (ГОСТ)
 
 https://docs.google.com/document/d/1YhjzuAToIJRbPk7vMwDOpm50K1LSoEfjw1q-eBFd-kc/edit?usp=drivesdk
+
+
+
+https://drive.google.com/drive/folders/1Kp3UFcnxyzb0_4lSat9p195d6T8X4V8r
