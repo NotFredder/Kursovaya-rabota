@@ -40,3 +40,6 @@ https://docs.google.com/document/d/1YhjzuAToIJRbPk7vMwDOpm50K1LSoEfjw1q-eBFd-kc/
 
 
 https://drive.google.com/drive/folders/1Kp3UFcnxyzb0_4lSat9p195d6T8X4V8r
+
+
+https://docs.google.com/document/d/1RwXcFwD3kcIys-dLlLAueXSwg9bOl-D03NeYpBYS2sc/edit?usp=drivesdk
